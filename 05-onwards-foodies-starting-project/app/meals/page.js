@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 export default function MealPage(){
 
 
@@ -6,6 +8,7 @@ export default function MealPage(){
         <p>
             This is Meal Page
         </p>
+
         </>
     )
 }
