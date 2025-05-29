@@ -1,6 +1,6 @@
-import MainHeaderBackground from "@/component/main-header-background";
+import MainHeaderBackground from "@/component/main-header/main-header-background";
 import "./globals.css";
-import MainHeader from "@/component/main-header";
+import MainHeader from "@/component/main-header/main-header";
 
 export const metadata = {
   title: "NextLevel Food",
